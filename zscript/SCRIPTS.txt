@@ -4,6 +4,6 @@ script 1 OPEN
 {
 
    Delay(35);
-   Print(s: "hello world");
+   Print(s: "Hello world");
 
 }
