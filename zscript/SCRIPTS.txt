@@ -2,8 +2,6 @@
 
 script 1 OPEN
 {
-
    Delay(35);
    Print(s: "Hello world");
-
 }
